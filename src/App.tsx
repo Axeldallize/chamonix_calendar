@@ -199,7 +199,7 @@ function App() {
       {/* Footer */}
       <footer className="border-t border-wood-200 mt-8">
         <div className="max-w-6xl mx-auto px-4 py-6 text-center text-sm text-wood-500">
-          <p>Chalet Durand-Allize · Chamonix-Mont-Blanc</p>
+          <p>Chalet Myosotis · Chamonix-Mont-Blanc</p>
         </div>
       </footer>
     </div>
